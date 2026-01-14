@@ -4,8 +4,9 @@
 1. 本项目的主要目的是：使用`UUP dump`自动制作`Windows 10/11`ISO镜像(使用`Github Actions`自动构建)
 
 ## 地址
-1. 本仓库地址: https://github.com/yuanpeirong/UUPdumpWinISO
-2. `UUP dump`地址: https://uupdump.net/
+1. 本仓库地址: https://github.com/yuanpeirong/UUPdumpWinISO (只发布源码)
+2. 备用仓库地址: https://github.com/yprsoft/UUPdumpWinISO (发布源码+镜像)
+3. `UUP dump`地址: https://uupdump.net/
 
 ## 目前已构建`Windows 10`版本
 - Windows10_21H2_amd64_Cumulative_Update：`19044.6693.251217-1256.21H2_RELEASE_SVC_IM_CLIENTMULTI_X64FRE_ZH-CN.ISO`
